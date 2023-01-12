@@ -1,0 +1,19 @@
+* {
+    font-family: 'Merriweather Sans', sans-serif;
+    color: #3f3f3f;
+}
+/* The hero image */
+.hero-image {
+  background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url("img/surf-hero.jpg");
+  min-height: 500px;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+.img-card{
+    max-height: 350px;
+    width: auto;
+    overflow-y: hidden;
+    background-position: center;
+    background-repeat: no-repeat;
+}
